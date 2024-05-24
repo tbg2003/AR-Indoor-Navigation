@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "70E89CD8-672A-4F43-BA4D-62BF48454CF3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "046EC151-2F6E-4780-8D47-84B948E4AB63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Indoor Navigation/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "046EC151-2F6E-4780-8D47-84B948E4AB63 - 9ffc03b6cf588d8b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Indoor_Navigation.AppDelegate.__allocating_init() -&gt; Indoor_Navigation.AppDelegate"
+                  moduleName = "Indoor Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lu21864/Documents/2022-AROfficeNavigation/Indoor%20Navigation/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "046EC151-2F6E-4780-8D47-84B948E4AB63 - 358c489e2a5cfc1c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Indoor_Navigation.AppDelegate.init() -&gt; Indoor_Navigation.AppDelegate"
+                  moduleName = "Indoor Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lu21864/Documents/2022-AROfficeNavigation/Indoor%20Navigation/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "046EC151-2F6E-4780-8D47-84B948E4AB63 - deb690246fcde9f3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Indoor_Navigation.AppDelegate.__deallocating_deinit"
+                  moduleName = "Indoor Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lu21864/Documents/2022-AROfficeNavigation/Indoor%20Navigation/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "046EC151-2F6E-4780-8D47-84B948E4AB63 - 2723a28af96bc4ec"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Indoor Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lu21864/Documents/2022-AROfficeNavigation/Indoor%20Navigation/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
